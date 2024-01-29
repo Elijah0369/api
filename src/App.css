@@ -2,14 +2,14 @@
   text-align: center;
 }
 
-/* src/UserList.css */
+
 .user-list-container {
   text-align: center;
   padding: 20px;
 }
 
 h1 {
-  color: #007bff; /* Blue color for the heading */
+  color: #007bff; 
 }
 
 .card-list {
@@ -21,7 +21,7 @@ h1 {
 .user-card {
   margin: 10px;
   padding: 20px;
-  background-color: #f0f0f0; /* Light gray background for each user card */
+  background-color: #f0f0f0; 
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease-in-out;
